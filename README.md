@@ -1,4 +1,4 @@
-![image.png](image/https://www.facebook.com/IPL/photos/p.10156217364118634/10156217364118634/?type=1&theater.png)
+![Indian Premier League](image/https://www.facebook.com/IPL/photos/p.10156217364118634/10156217364118634/?type=1&theater.png)
 
 ### Exploratory Analysis on IPL Data
 
