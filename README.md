@@ -1,4 +1,4 @@
-![Indian Premier League](image/https://www.facebook.com/IPL/photos/p.10156217364118634/10156217364118634/?type=1&theater.png)
+![Indian Premier League](https://spiderimg.amarujala.com/assets/images/2018/01/04/750x506/ipl-2018-retention_1515071399.jpeg)
 
 ### Exploratory Analysis on IPL Data
 
