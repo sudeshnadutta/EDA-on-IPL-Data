@@ -1,3 +1,5 @@
+![image.png](image/https://www.facebook.com/IPL/photos/p.10156217364118634/10156217364118634/?type=1&theater.png)
+
 ### Exploratory Analysis on IPL Data
 
 EDA is one of the most important aspects of any Data Science project. It easily accounts for 60-70% of work before one goes on to modelling. EDA is basically 'A first glance at the data'. In order to generate a good model from the dataset we first need to understand the data. EDA helps in achieving that. It summarizes data, finds patterns between data points and is often done presented via visual methods (diagrams, graphs) for easy understandability.
