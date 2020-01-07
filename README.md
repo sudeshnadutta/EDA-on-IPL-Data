@@ -10,10 +10,10 @@ Any EDA comprises of the following steps
 - Defining the problem statement
 - Collecting data required for the problem
 - Pre-processing of data
--- Pre-profiling
--- Processing data based on pre-profiling
--- Post profiling of data
--- Break down into high level topics based on problem statement
--- Perform univariate, bivariate and multivariate analysis on these topics to understand the data
+  - Pre-profiling
+  -Processing data based on pre-profiling
+  -Post profiling of data
+  -Break down into high level topics based on problem statement
+  -Perform univariate, bivariate and multivariate analysis on these topics to understand the data
 
 An effective EDA performed on a dataset helps to identify relevant features that can fed to our machine learning algorithms and generate a good model with high predictve power.
