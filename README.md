@@ -17,3 +17,6 @@ Any EDA comprises of the following steps
   - Perform univariate, bivariate and multivariate analysis on these topics to understand the data
 
 An effective EDA performed on a dataset helps to identify relevant features that can fed to our machine learning algorithms and generate a good model with high predictve power.
+
+
+![image.jpg](image/Picture1.jpg)
