@@ -2,7 +2,7 @@
 
 ### Exploratory Analysis on IPL Data
 
-EDA is one of the most important aspects of any Data Science project. It easily accounts for 60-70% of work before one goes on to modelling. EDA is basically 'A first glance at the data'. In order to generate a good model from the dataset we first need to understand the data. EDA helps in achieving that. It summarizes data, finds patterns between data points and is often done presented via visual methods (diagrams, graphs) for easy understandability.
+EDA is one of the most important aspects of any Data Science project. It easily accounts for 60-70% of work before one goes on to modelling. EDA is basically 'A first glance at the data'. In order to generate a good model from the dataset we first need to understand the data. EDA helps in achieving that. It summarizes data, finds patterns between data points and is often presented via visual methods (diagrams, graphs) for easy understandability.
 
 Real world data is most of the times unstructured and dirty in nature. If we do not perform EDA first and directly feed this data into any machine learning algorithm, then we can be pretty sure that we would not get any desireable result. As it is often said 'Garbage In Garbage Out'. EDA helps in identifying gaps in the data and then filling those gaps appropriately. 
 
@@ -15,10 +15,10 @@ Any EDA comprises of the following steps
   - Pre-profiling
   - Processing data based on pre-profiling
   - Post profiling of data
-  - Break down into high level topics based on problem statement
-  - Perform univariate, bivariate and multivariate analysis on these topics to understand the data
+  - Breaking down into high level topics based on problem statement
+  - Performing univariate, bivariate and multivariate analysis on these topics to understand the data
 
-An effective EDA performed on a dataset helps to identify relevant features that can fed to our machine learning algorithms and generate a good model with high predictve power.
+An effective EDA performed on a dataset helps to identify relevant features that can be fed to our machine learning algorithms and generate a good model with high predictve power.
 
 
 ### Repository Overview
@@ -29,7 +29,7 @@ This repository is about EDA performed on Indian Premier League Data available b
 
 ### Brief Overview of the steps followed in this project
 
-There are 2 datasets used for EDA purpose. 'matches' dataset gives information on all the matches played in IPL between 2008 and 2018 i.e. information on the following:
+There are 2 datasets used for the analysis. 'matches' dataset gives information on all the matches played in IPL between 2008 and 2018 i.e. information on the following:
 - Season
 - Venue
 - City
@@ -39,7 +39,7 @@ There are 2 datasets used for EDA purpose. 'matches' dataset gives information o
 - Winning margin
 - Umpires
 
-On the other hand 'deliveries' dataset gives information ball by ball for every match played during 2008 - 2018. In a nutshell it provides information on the following
+On the other hand 'deliveries' dataset gives ball by ball information on every match played during 2008 - 2018. In a nutshell it provides information on the following
 - Runs scored per ball
 - Extras by bowlers/fielding team
 - Wickets taken
